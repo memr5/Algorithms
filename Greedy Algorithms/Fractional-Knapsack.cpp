@@ -55,6 +55,6 @@ int main() {
   }
 
   std::cout << "\nProfit = " << profit << '\n';
-  std::cout << "Changes" << '\n';
+  
   return 0;
 }
