@@ -3,9 +3,9 @@
 ***This algorithm is based on sorting pairs of elements far apart from each other, by progressively reducing the gap between elements to be compared. Starting with far apart elements, algorithm  moves some out-of-place elements into position faster than a simple nearest neighbor exchange.***
 ###Time complexity
 **The running time of Shellsort is heavily dependent on the gap sequence it uses.**
--Worst case performance O(nlog2 2n)
--Best case performance O(n log n)
--Average case performance depends on gap sequence
+-Worst complexity: Depends on gap sequence
+-Average complexity: n*log(n)^2 or n^(3/2)
+-Best complexity: n
 
 ##Python Code implementation of Shell sort
 
