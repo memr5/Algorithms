@@ -14,3 +14,4 @@
 * [nn123kkk](https://github.com/nn123kkk)
 * [Anway](https://github.com/anwaysomani)
 * [Sneha Raina](https://github.com/SnehaR26)
+* [Ricardo Stoklosa](https://github.com/RicardoStoklosa)
