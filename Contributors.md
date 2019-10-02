@@ -6,6 +6,7 @@
 * [hosseinSafari](https://github.com/hosseinSafari)
 * [Vishal Agarwal](https://github.com/Vishal260700)
 * [Pranav B](https://github.com/Blaze2305)
+* [Antônio Dias](https://github.com/antoniofdias)
 * [Roberto Torella](https://github.com/ganglio)
 * [Satyajit Ghana](https://github.com/satyajitghana)
 * [tazzzzzzz](https://github.com/tazzzzzzz)
