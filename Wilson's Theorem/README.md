@@ -4,4 +4,4 @@
 <br>
 This equation is always true for prime numbers and never true for composite numbers. 
 <br>
-Using Wilson's theorem, this program displays all the prime numbers that are present in an user specified range (inclusive) are displayed. </p>
+Using Wilson's theorem, this program displays all the prime numbers that are present in a user specified range (inclusive) are displayed. </p>
