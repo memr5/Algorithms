@@ -20,6 +20,7 @@ Read more about [participation details](https://hacktoberfest.digitalocean.com/d
 * Fork this repository
 * Clone your forked repository to your local machine
 * Add any **Algorithm** (any language) in its respective folder (ex. Bubble sort in Sorting Algorithms)
+(If folder is not there you can create one)
 * Add your name in Contributors.md file
 * Then create a pull request
 * Congratulations!! You have successfully created your pull request.
