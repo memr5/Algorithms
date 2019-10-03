@@ -20,3 +20,4 @@
 * [Kelly Costa](https://github.com/kellydosocorro)
 * [Sriram Iyer](https://github.com/ramiyer1998)
 * [Miguel](https://github.com/marxlaml)
+* [Sameer Kashyap](https://github.com/Sameerkash)
