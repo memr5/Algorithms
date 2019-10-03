@@ -33,7 +33,7 @@ int main()
 	cout<<"\nEnter the number of elements you want you enter= ";
 	cin>>n;
 	int a[n];
-	cout<<"\nEnter the array=";
+	cout<<"\nEnter the array elements(in ascending order)=";
 	for(int i=0;i<n;i++)
 	{
 		cin>>a[i];
