@@ -17,3 +17,6 @@
 * [Ricardo Stoklosa](https://github.com/RicardoStoklosa)
 * [Proma Roy](https://github.com/promaroy)
 * [Austin Zuniga](https://github.com/AustinZuniga)
+* [Kelly Costa](https://github.com/kellydosocorro)
+* [Sriram Iyer](https://github.com/ramiyer1998)
+* [Miguel](https://github.com/marxlaml)
