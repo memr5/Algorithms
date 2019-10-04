@@ -1,7 +1,8 @@
 //Linear research with a flag value that interrupts research until the value is found.
-#include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
 #define ELEMENTS 10
-using namespace std;
 
 bool research(int numSearch, int arr[]);
 
@@ -12,20 +13,20 @@ int main(){
     int search;
     bool found;
     
-    cout << "Array: ";
+    printf("Array: ");
     for(i=0; i<ELEMENTS; i++)
-        cout << " " << array[i];
+        printf("%d", array[i]); 
 
-    cout << endl << "Insert number to search: ";
-    cin >> search;
+    printf("Insert number to search: ");
+    scanf("%d", &search);
 
     found = research(search, array);
 
     if(found){
-        cout << "The element is in the array." << endl;
+        printf("The element is in the array.\n");
     }  
     else {
-        cout << "Element not in the array." << endl; 
+        printf("Element not in the array.\n");
     }
     
     return 0;
