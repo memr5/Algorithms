@@ -21,12 +21,10 @@ int main(){
 
     found = research(search, array);
 
-    if(found){
+    if(found)
         cout << "The element is in the array." << endl;
-    }  
-    else {
+    else
         cout << "Element not in the array." << endl; 
-    }
     
     return 0;
 }
