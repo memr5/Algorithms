@@ -4,7 +4,7 @@ public class JumpSearch{
         int x = 8;
 
         int contain = jumpSearch(x, arr);
-        System.out.println("Contain in index: "+contain);
+        System.out.println("Contain x in index: "+contain);
     }
 
     public static int jumpSearch(int x, int arr[]){
