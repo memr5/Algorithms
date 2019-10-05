@@ -1,5 +1,6 @@
 # Contributors
 
+* [Sundeep Chand](https://github.com/SundeepChand)
 * [Meet Ranoliya](https://github.com/memr5/)
 * [ANIMESH BARUA](https://github.com/LIGHT1210)
 * [Vatsal Parsaniya](https://github.com/Vatsalparsaniya)
