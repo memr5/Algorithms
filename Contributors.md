@@ -26,6 +26,7 @@
 * [Janeth Fernando](https://github.com/janethavi)
 * [Dhira](https://github.com/ddhira123)
 * [Subhojyoti Khastagir](https://github.com/Subho13)
+* [Sumedh Jouras](https://github.com/Sumedhj16)
 * [NerdOfCode](https://github.com/nerdofcode)
 * [Jay Dave](https://github.com/simson1)
 * [Ahmad Emir Alfatah](https://github.com/Criptdestroyer)
