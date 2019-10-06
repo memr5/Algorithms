@@ -23,6 +23,7 @@
 * [Sameer Kashyap](https://github.com/Sameerkash)
 * [Prajwal Kumar](https://github.com/prajwal72)
 * [Ahmet Oguz](https://github.com/asotronot)
-* [Janeth Fernando] (https://github.com/janethavi)
+* [Janeth Fernando](https://github.com/janethavi)
 * [Dhira](https://github.com/ddhira123)
 * [Subhojyoti Khastagir](https://github.com/Subho13)
+* [Pratyay Banerjee](https://github.com/Neilblaze)
