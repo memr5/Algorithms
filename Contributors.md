@@ -6,6 +6,7 @@
 * [hosseinSafari](https://github.com/hosseinSafari)
 * [Vishal Agarwal](https://github.com/Vishal260700)
 * [Pranav B](https://github.com/Blaze2305)
+* [Adityakumar Yadav](https://github.com/AdiY2j)
 * [Antônio Dias](https://github.com/antoniofdias)
 * [Roberto Torella](https://github.com/ganglio)
 * [Satyajit Ghana](https://github.com/satyajitghana)
@@ -26,3 +27,4 @@
 * [Janeth Fernando] (https://github.com/janethavi)
 * [Dhira](https://github.com/ddhira123)
 * [Subhojyoti Khastagir](https://github.com/Subho13)
+
