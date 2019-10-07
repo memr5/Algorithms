@@ -4,6 +4,6 @@ In machine learning, the perceptron is an algorithm for supervised learning of b
 You can learn more from [here](https://en.wikipedia.org/wiki/Perceptron).
 
 Implemetation of perceptron algorithm in cpp an javascript
-This particular implemetation uses any linear function and cartesian points to training and making predicions.
+This particular implemetation uses any linear function and cartesian points to training and making predicions
 
 

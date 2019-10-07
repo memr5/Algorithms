@@ -9,12 +9,12 @@ double f(double x){
     const double m = 0.3;
     const double b = 0.2;
     return m * x + b;
-}
+}//Linear Function to base predictions
 
 class Perceptron{
     public:
         vector<double> weights;
-        double lr; //learning rate
+        double lr; //Learning Rate
 
         Perceptron(int inputLength, double learningRate){
             weights.resize(inputLength,0);

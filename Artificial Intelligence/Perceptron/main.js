@@ -54,7 +54,7 @@ function f(x){
     const m = 0.3;
     const b = 0.2; 
     return m * x + b;
-}
+}//Linear Function to base predictions
 
 function main(){
     const perceptron = new Perceptron(3,0.1);
@@ -97,6 +97,5 @@ function main(){
     console.log('Trained:', rate/pointsLenght, 
                 'Untrained:',untrainedRate/pointsLenght);
 }
-
 
 main();
