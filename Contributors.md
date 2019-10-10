@@ -38,3 +38,4 @@
 * [Muskan](https://github.com/Muskan-goyal6)
 * [Tarannum](https://github.com/giTan7)
 * [HCamberos](https://github.com/HCamberos)
+* [Rohan Jaiswal](https://github.com/gateway2rohan)
