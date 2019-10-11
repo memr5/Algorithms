@@ -1,7 +1,7 @@
 #include <bits/stdc++.h> //Floyd-Warshall O(N^3)
 using namespace std;	//Leonardo Su
-					   // Github : @Leonardosu
-					  // Hacktoberfest
+ 		       // Github : @Leonardosu
+		      // Hacktoberfest
 
 const int N = 400;   // Number of vertex
 const int INF = 1e9 + 7;
