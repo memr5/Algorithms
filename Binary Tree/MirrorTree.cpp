@@ -14,9 +14,7 @@ struct Node
     }
 };
 void mirror(struct Node* node);
-/* Helper function to test mirror(). Given a binary
-   search tree, print out its data elements in
-   increasing sorted order.*/
+
 void inOrder(struct Node* node)
 {
   if (node == NULL)
@@ -25,7 +23,7 @@ void inOrder(struct Node* node)
   printf("%d ", node->data);
   inOrder(node->right);
 }
-/* Driver program to test size function*/
+
 int main()
 {
   int t;
