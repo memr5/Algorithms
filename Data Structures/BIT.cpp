@@ -1,6 +1,6 @@
 #include <bits/stdc++.h> //Fenwick (Binary Indexed) Trees 
 using namespace std;    //Leonardo Su
-					   // Github : @Leonardosu
+		       // Github : @Leonardosu
                       // Hacktoberfest
 
 typedef long long int ll;
