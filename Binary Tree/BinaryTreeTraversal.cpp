@@ -18,6 +18,13 @@ void inorder(struct node *root) {
       inorder(root->right);
    }
 } 
+void preorder(struct node *root){
+   if(root==NULL)
+      return;
+   cout<<root->data<<" ";
+   preorder(root->left);
+   preorder(root->right);
+}
 struct node* insertNode(struct node* node, int val) {   
    if (node == NULL) return createNode(val);
    if (val < node->data)
