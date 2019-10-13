@@ -37,3 +37,5 @@
 * [ehmoovin](https://github.com/moovinfrontend)
 * [Muskan](https://github.com/Muskan-goyal6)
 * [Somyadeep Shrivastava](https://github.com/smdp2000)
+* [Tarannum](https://github.com/giTan7)
+* [HCamberos](https://github.com/HCamberos)
