@@ -65,3 +65,4 @@ function buildHeap(&$array, $heapSize, $node)
         }
     } while ($array[$left] > $array[$max] || $array[$right] > $array[$max]);
 }
+?>
