@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 * [Meet Ranoliya](https://github.com/memr5/)
 * [ANIMESH BARUA](https://github.com/LIGHT1210)
@@ -38,3 +38,4 @@
 * [Muskan](https://github.com/Muskan-goyal6)
 * [Tarannum](https://github.com/giTan7)
 * [HCamberos](https://github.com/HCamberos)
+* [Aditya Bansal](https://github.com/aditya2499)
