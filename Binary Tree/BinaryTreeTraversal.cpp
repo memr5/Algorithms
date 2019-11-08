@@ -18,6 +18,13 @@ void inorder(struct node *root) {
       inorder(root->right);
    }
 } 
+
+int minNode(struct node *root){
+   struct node *temp=root;
+   while(temp->left!=NULL)
+      temp=temp->left;
+   return temp->data;
+}
 struct node* insertNode(struct node* node, int val) {   
    if (node == NULL) return createNode(val);
    if (val < node->data)
