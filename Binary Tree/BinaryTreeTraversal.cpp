@@ -11,11 +11,12 @@ struct node *createNode(int val) {
    temp->left = temp->right = NULL;
    return temp;
 }
-void inorder(struct node *root) {
+void preorder(struct node *root) {
    if (root != NULL) {   
-      inorder(root->left);
+      
       cout<<root->data<<" ";
-      inorder(root->right);
+      preorder(root->left);
+      preorder(root->right);
    }
 } 
 struct node* insertNode(struct node* node, int val) {   
@@ -34,7 +35,7 @@ int main() {
    insertNode(root, 9);
    insertNode(root, 1);
    insertNode(root, 3);
-   cout<<"In-Order traversal of the Binary Search Tree is: ";
-   inorder(root);
+   cout<<"Pre-Order traversal of the Binary Search Tree is: ";
+   preorder(root);
    return 0;
 }
