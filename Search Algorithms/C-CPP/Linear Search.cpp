@@ -13,7 +13,7 @@ int search(int arr[], int n, int x)
 int main(void) 
 {   
 	int n,x; 
-	cin>>n;
+	cin>>n>>x;
 	int arr[n];
 	for(int i=0;i<n;i++)
 		cin>>arr[i];
@@ -23,5 +23,5 @@ int main(void)
 		cout<<"element not found";
 	}
 	else
-		cout<<"element found:"<<result;
+		cout<<"element found at index:"<<result+1;
 } 
