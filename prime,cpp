@@ -1,0 +1,27 @@
+//prints primes less than given number
+#include<iostream>
+using namespace std;
+bool prime(int a){     //tells if no. is prime or not
+    bool check = false;
+    int count = 0;
+    for(int i = 2;i<a;i++){
+        if(a%i!=0){
+            count++;
+        }
+    }
+    if(count==a-2){
+        check = true;
+    }
+    return check;
+}
+int main(){
+    int n;         //given no.
+    cin>>n;
+    cout<<"primes less than "<<n<<" are :"<<endl;
+    for(int i = 2;i<n;i++){
+        if(prime(i)==true){
+            cout<<i<<endl;
+        }
+    }
+
+}
