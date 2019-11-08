@@ -20,18 +20,28 @@ public class BubbleSort {
         * No need to check it again.
         *
         * */
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = 0; j < n - i - 1; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    // swap arr[j+1] and arr[i]
-                    int temp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
-                }
-            }
-            System.out.println("Array after " + (i + 1) + " iterations");
-            printArray(arr);
-        }
+        boolean swapped;
+				int temp;
+
+				for(int i=0;i<arr.length-1;i++){
+
+					swapped=false;
+
+					for(int j=0;j<arr.length-i-1;j++){
+
+						if(arr[j]>arr[j+1])
+						{
+							temp = arr[j];
+							arr[j] = arr[j + 1];
+		                    arr[j + 1] = temp;
+							swapped =true;
+						}
+
+					}
+					if(swapped==false)
+					break;
+		}
+
         System.out.println("Array after sorting: ");
         printArray(arr);
     }
@@ -45,3 +55,4 @@ public class BubbleSort {
 
     }
 }
+
