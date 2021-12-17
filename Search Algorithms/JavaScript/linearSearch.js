@@ -12,6 +12,6 @@ const x = linearSearch(78, arr);
 const y = linearSearch(100, arr);
 
 console.log(x);
-// Output : Congratulations! Found at position
+// Output : Congratulations! Found at position 3
 console.log(y);
 // Output : -1
